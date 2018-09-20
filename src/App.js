@@ -53,9 +53,8 @@ class App extends Component {
 
 const styles = {
   container: {
-    width: "370px"
-    // flex: 1,
-    // alignItems: "center"
+    width: "370px",
+    margin: "0 auto"
   },
   image: {
     width: "150px",
